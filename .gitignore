@@ -1,0 +1,4 @@
+*.pyc
+*.pyo
+djangoblog/settings.py
+settings.py
